@@ -30,4 +30,4 @@ Ensure these dependencies are installed before running the scripts.
 2. Run the identify_employees.py script to perform the analysis and identify patterns of employee behavior.
 
    ```bash
-   python identify_employees.py.py
+   python identify_employees.py
